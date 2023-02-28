@@ -127,9 +127,9 @@
             this.label1.Font = new System.Drawing.Font("Segoe UI", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.label1.Location = new System.Drawing.Point(222, 14);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(139, 30);
+            this.label1.Size = new System.Drawing.Size(146, 30);
             this.label1.TabIndex = 2;
-            this.label1.Text = "Libary System";
+            this.label1.Text = "Library System";
             // 
             // btnAdd
             // 
