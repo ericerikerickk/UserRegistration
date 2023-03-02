@@ -36,8 +36,8 @@ namespace UserRegistration
             {
                 if (Cryptography.Decrypt(Password).Equals(txtPassword.Text))
                 {
-                    Form3 frm3 = new Form3();
-                    frm3.Show();
+                    Form4 frm4 = new Form4();
+                    frm4.Show();
                 }
                 else
                 {
